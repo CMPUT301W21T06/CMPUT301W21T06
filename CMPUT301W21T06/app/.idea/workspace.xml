@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b0688b0-1d3d-403f-9b18-8df57b4a45eb" name="Default Changelist" comment="" />
+    <list default="true" id="3b0688b0-1d3d-403f-9b18-8df57b4a45eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cmput301w21t06/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +32,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1oMGRzy7wtt8rnBm1hdMkv0hLSA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,6 +44,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -121,9 +131,9 @@
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="610" y="106" key="#Project_Structure/1920.119.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1613089048980" />
-    <state x="681" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1613089042817">
+    <state x="681" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1613090989763">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
-    <state x="681" y="273" key="com.intellij.ide.util.TipDialog/1920.119.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1613089042817" />
+    <state x="681" y="273" key="com.intellij.ide.util.TipDialog/1920.119.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1613090989763" />
   </component>
 </project>

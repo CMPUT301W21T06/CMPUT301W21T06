@@ -1,5 +1,9 @@
-package com.example.cmput301w21t06;
 
-public class Square extends Shape{
-
+public class Circle extends Shape {
+    public Circle() {
+        super();
+    }
 }
+
+
+
