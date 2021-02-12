@@ -1,6 +1,6 @@
 package com.example.cmput301w21t06;
 
-public abstract class Shape {
+public class Rectangle extends Shape {
     int x;
     int y;
 
